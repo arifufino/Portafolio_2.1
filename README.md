@@ -92,7 +92,10 @@ Este proyecto fue desarrollado con el objetivo de:
 
 ## Capturas
 
-Agregar aquí imágenes del proyecto.
+<img width="1877" height="877" alt="image" src="https://github.com/user-attachments/assets/7f3117b7-f38e-4b62-934c-d482f2c13eee" />
+<img width="1876" height="875" alt="image" src="https://github.com/user-attachments/assets/57f4cec0-4aae-44ee-9216-504352442351" />
+<img width="1878" height="877" alt="image" src="https://github.com/user-attachments/assets/577fc6c7-62cc-4c07-8b1b-8ff9f6555324" />
+
 
 ## Autor
 
