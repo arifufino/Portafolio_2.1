@@ -1,0 +1,27 @@
+{
+  "name": "portafolio2",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "standard": "^17.1.2",
+    "vite": "^8.1.1"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@vitejs/plugin-react": "6.0.3",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-wavify": "^1.12.0",
+    "three": "^0.185.1",
+    "vanta": "^0.5.24"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  }
+}
