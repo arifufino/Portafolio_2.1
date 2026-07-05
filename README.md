@@ -1,111 +1,61 @@
 # Portafolio 2.1
 
-Portafolio profesional desarrollado con React y Vite para mostrar información personal, proyectos, habilidades y experiencia como desarrollador de software.
+Portafolio profesional desarrollado con **React + Vite** para mostrar mi perfil como desarrollador de software.
 
-LINK: https://arifufino.garifufino.workers.dev/
+🔗 **Sitio web:** [https://arifufino.garifufino.workers.dev/](https://arifufino.garifufino.workers.dev/)
 
-## Características
+![Vista previa del portafolio](https://via.placeholder.com/800x400?text=Portafolio+Preview) <!-- Reemplaza con una captura real -->
 
-- Diseño completamente responsivo.
-- Animaciones y transiciones suaves.
-- Sección Sobre Mí.
-- Proyectos destacados.
-- Tecnologías y habilidades.
-- Información de contacto.
-- Integración con GitHub.
-- Interfaz moderna y personalizable.
+## ✨ Características
 
-## Tecnologías Utilizadas
+- Diseño **100% responsivo** y moderno
+- Animaciones y transiciones suaves
+- Secciones: Sobre mí, Proyectos, Habilidades y Contacto
+- Integración con GitHub
+- Optimizado para SEO y rendimiento
+- Desplegado en **Cloudflare Workers**
 
-- React
-- Vite
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Git
-- GitHub
+## 🛠 Tecnologías Utilizadas
 
-## Instalación
+- **Frontend:** React, Vite, JavaScript (ES6+)
+- **Estilos:** CSS3 + módulos CSS
+- **Herramientas:** Git, GitHub, Wrangler (Cloudflare)
+- **Despliegue:** Cloudflare Workers
 
-Clonar el repositorio:
+## 🚀 Instalación y Ejecución
 
-```bash
+
+# Clonar el repositorio
 git clone https://github.com/arifufino/Portafolio_2.1.git
-```
 
-Entrar al proyecto:
-
-```bash
+# Entrar al directorio
 cd Portafolio_2.1
-```
 
-Instalar dependencias:
-
-```bash
+# Instalar dependencias
 npm install
-```
 
-Ejecutar el proyecto:
-
-```bash
+# Ejecutar en modo desarrollo
 npm run dev
-```
 
-Construir para producción:
-
-```bash
+# Construir para producción
 npm run build
-```
-
-## Variables de entorno
-
-Crear un archivo:
-
-```env
-.env
-```
-
-Tomando como referencia:
-
-```env
-.env.example
-```
-
-## Estructura del proyecto
-
-```txt
-src/
-├── assets/
-├── components/
-├── pages/
-├── styles/
+## 📁 Estructura del Proyecto
+textsrc/
+├── assets/           # Imágenes y recursos estáticos
+├── components/       # Componentes reutilizables
+├── pages/            # Páginas principales
+├── styles/           # Estilos globales
 ├── App.jsx
 └── main.jsx
-```
 
-## Objetivo del proyecto
+## 📸 Capturas de Pantalla
+(Agrega aquí 2-3 capturas de pantalla del sitio)
 
-Este proyecto fue desarrollado con el objetivo de:
-
-- Mostrar mi perfil profesional.
-- Aplicar buenas prácticas de desarrollo web.
-- Experimentar con nuevas librerías y animaciones.
-- Servir como carta de presentación para reclutadores y otros desarrolladores.
-
-## Capturas
-
-<img width="1877" height="877" alt="image" src="https://github.com/user-attachments/assets/7f3117b7-f38e-4b62-934c-d482f2c13eee" />
-<img width="1876" height="875" alt="image" src="https://github.com/user-attachments/assets/57f4cec0-4aae-44ee-9216-504352442351" />
-<img width="1878" height="877" alt="image" src="https://github.com/user-attachments/assets/577fc6c7-62cc-4c07-8b1b-8ff9f6555324" />
-
-
-## Autor
-
+## 👨‍💻 Autor
 Ariel Paz
+Estudiante de Desarrollo de Software | Frontend & Backend
 
-GitHub:
-https://github.com/arifufino
+GitHub: @arifufino
 
-## Licencia
-
-Este proyecto es de uso educativo y puede ser utilizado como referencia para proyectos similares.
+📄 Licencia
+Este proyecto es de uso educativo y puede ser utilizado como referencia para otros portafolios.
