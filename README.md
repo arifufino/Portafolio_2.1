@@ -1,61 +1,139 @@
-# Portafolio 2.1
+# 🚀 Portafolio 2.1
 
-Portafolio profesional desarrollado con **React + Vite** para mostrar mi perfil como desarrollador de software.
+Portafolio profesional desarrollado con **React + Vite** para mostrar mi perfil como desarrollador de software, mis proyectos, habilidades y experiencia en el área del desarrollo web.
 
-🔗 **Sitio web:** [https://arifufino.garifufino.workers.dev/](https://arifufino.garifufino.workers.dev/)
+🌐 **Sitio web:**  
+https://arifufino.garifufino.workers.dev/
 
-![Vista previa del portafolio](https://via.placeholder.com/800x400?text=Portafolio+Preview) <!-- Reemplaza con una captura real -->
+<img width="1879" height="876" alt="image" src="https://github.com/user-attachments/assets/64036d5e-e824-4848-8423-d7c73ea726a1" />
+
+
+---
 
 ## ✨ Características
 
-- Diseño **100% responsivo** y moderno
-- Animaciones y transiciones suaves
-- Secciones: Sobre mí, Proyectos, Habilidades y Contacto
-- Integración con GitHub
-- Optimizado para SEO y rendimiento
-- Desplegado en **Cloudflare Workers**
+- 🎨 Diseño moderno y **100% responsivo**.
+- ⚡ Animaciones y transiciones suaves.
+- 👤 Sección **Sobre mí**.
+- 💼 Sección de **Proyectos Destacados**.
+- 🛠️ Apartado de **Habilidades y Tecnologías**.
+- 📬 Sección de **Contacto**.
+- 🔗 Integración con GitHub.
+- 🚀 Optimizado para rendimiento y SEO.
+- ☁️ Desplegado mediante **Cloudflare Workers**.
+
+---
 
 ## 🛠 Tecnologías Utilizadas
 
-- **Frontend:** React, Vite, JavaScript (ES6+)
-- **Estilos:** CSS3 + módulos CSS
-- **Herramientas:** Git, GitHub, Wrangler (Cloudflare)
-- **Despliegue:** Cloudflare Workers
+### Frontend
+- React
+- Vite
+- JavaScript (ES6+)
+
+### Estilos
+- CSS3
+- CSS Modules
+
+### Herramientas
+- Git
+- GitHub
+- Wrangler (Cloudflare)
+
+### Despliegue
+- Cloudflare Workers
+
+---
 
 ## 🚀 Instalación y Ejecución
 
+### 1. Clonar el repositorio
 
-# Clonar el repositorio
+```bash
 git clone https://github.com/arifufino/Portafolio_2.1.git
+```
 
-# Entrar al directorio
+### 2. Entrar al directorio del proyecto
+
+```bash
 cd Portafolio_2.1
+```
 
-# Instalar dependencias
+### 3. Instalar dependencias
+
+```bash
 npm install
+```
 
-# Ejecutar en modo desarrollo
+### 4. Ejecutar el proyecto en modo desarrollo
+
+```bash
 npm run dev
+```
 
-# Construir para producción
+### 5. Construir para producción
+
+```bash
 npm run build
+```
+
+### 6. Generar una vista previa del proyecto compilado
+
+```bash
+npm run preview
+```
+
+---
+
 ## 📁 Estructura del Proyecto
-textsrc/
-├── assets/           # Imágenes y recursos estáticos
-├── components/       # Componentes reutilizables
-├── pages/            # Páginas principales
-├── styles/           # Estilos globales
+
+```text
+src/
+├── assets/          # Imágenes y recursos estáticos
+├── components/      # Componentes reutilizables
+├── pages/           # Páginas principales
+├── styles/          # Estilos globales
 ├── App.jsx
 └── main.jsx
+```
+
+---
 
 ## 📸 Capturas de Pantalla
-(Agrega aquí 2-3 capturas de pantalla del sitio)
+
+
+<img width="1879" height="876" alt="image" src="https://github.com/user-attachments/assets/66321464-3324-429e-9ce2-8689adbc06bb" />
+<img width="1878" height="876" alt="image" src="https://github.com/user-attachments/assets/f18203e9-fa78-46f6-8cf1-499325f1537f" />
+<img width="340" height="733" alt="image" src="https://github.com/user-attachments/assets/5b63746f-0e88-49ec-aa0b-5f47c386b1e6" />
+
+
+---
+
+## 🎯 Objetivos del Proyecto
+
+Este proyecto fue desarrollado con el propósito de:
+
+- Mostrar mi perfil profesional y académico.
+- Aplicar buenas prácticas de desarrollo web.
+- Mejorar mis conocimientos en React y Vite.
+- Experimentar con animaciones y diseños modernos.
+- Servir como carta de presentación para reclutadores y otros desarrolladores.
+
+---
 
 ## 👨‍💻 Autor
-Ariel Paz
+
+**Ariel Paz**  
 Estudiante de Desarrollo de Software | Frontend & Backend
 
-GitHub: @arifufino
+GitHub: https://github.com/arifufino
 
-📄 Licencia
-Este proyecto es de uso educativo y puede ser utilizado como referencia para otros portafolios.
+---
+
+## 📄 Licencia
+
+Este proyecto es de uso educativo y puede ser utilizado como referencia para otros portafolios, siempre otorgando los créditos correspondientes al autor.
+
+---
+
+⭐ Si te gustó este proyecto, considera dejar una estrella en el repositorio.
