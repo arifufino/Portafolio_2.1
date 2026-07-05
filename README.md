@@ -2,6 +2,8 @@
 
 Portafolio profesional desarrollado con React y Vite para mostrar información personal, proyectos, habilidades y experiencia como desarrollador de software.
 
+LINK: https://arifufino.garifufino.workers.dev/
+
 ## Características
 
 - Diseño completamente responsivo.
